@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://url-to-easyappointments-directory';
+    const BASE_URL      = 'https://github.com/Admin-Salas2022/salas/edit/main/';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
